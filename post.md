@@ -1,4 +1,4 @@
-### What is [Mingle](www.thoughtworks.com/mingle/)?
+### What is [Mingle](http://www.thoughtworks.com/mingle/)?
 
 Mingle is a to-do tracker unlike any other. It is customizable beyond your wildest dreams. If you need more than "New", "In progress", "Completed" - you can add new sections via the interface. It seems like literally every part of the site can be modified or removed. At times, the level of customization can be a bit much, but if you read a good tutorial you'll understand and appreciate the complexity.
 
@@ -63,4 +63,4 @@ Mingle is very cool but also very complicated. They know their target demographi
 
 Think of MQL as having a single Database or Schema and a single Table. The columns are always card attributes. There are never FROM clauses, because of the fact there is only a single table. For more information, consult the [MQL Syntax section](http://www.thoughtworks.com/mingle/docs/mql_reference.html) of the documentation.
 
-With the amount of functionality that is provided, I don't think that they could make it any simpler. Using mingle in your workflow will be less complicated - when you are done setting up macros and reports you typically don't have to create more. Setting up the macros is a one-off technical investment, but can help you visualize your team's workload. The typical workflow involving to-do items has nothing to do with macros, so if you simply want to track your tasks, check out mingle - the day to day workflow is simpler than this - this was the most complicated thing I could think of within Mingle to write a tutorial for. Check [Mingle](www.thoughtworks.com/mingle/) out for yourself!
+With the amount of functionality that is provided, I don't think that they could make it any simpler. Using mingle in your workflow will be less complicated - when you are done setting up macros and reports you typically don't have to create more. Setting up the macros is a one-off technical investment, but can help you visualize your team's workload. The typical workflow involving to-do items has nothing to do with macros, so if you simply want to track your tasks, check out mingle - the day to day workflow is simpler than this - this was the most complicated thing I could think of within Mingle to write a tutorial for. Check [Mingle](http://www.thoughtworks.com/mingle/) out for yourself!
